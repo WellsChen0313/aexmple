@@ -1,0 +1,5 @@
+nosetests --with-html --html-file=report01.html
+
+
+
+C:\Users\wellsc\AppData\Local\Programs\Python\Python37
